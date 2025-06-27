@@ -23,48 +23,5 @@ A Flutter-based Chat Bot application with animated responses using AnimatedTextK
 
 
 
-Installation
 
-### Clone the repository:
-
-git clone https://github.com/yourusername/chat-bot-app.git
-cd chat-bot-app
-
-## Install dependencies:
-
-flutter pub get
-
-Run the app:
-
-flutter run
-
-API Integration
-
-This app uses Google Gemini API for AI responses. Ensure you have a valid API key:
-
-Get your API key from Google Cloud Console
-
-Add it in your lib/data/remote/api_helper.dart:
-
-const String apiKey = "YOUR_API_KEY";
-
-## Dependencies
-
-Flutter
-
-Provider
-
-AnimatedTextKit
-
-Intl
-
-Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-License
-
-MIT License. See LICENSE for details.
-
-Made with ❤️ using Flutter
 
